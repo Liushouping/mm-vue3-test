@@ -1,1 +1,0 @@
-import{o,c as t,a as e,_ as r}from"./index.dec44bc8.js";import{F as a}from"./FooterTwo.10243613.js";const s={class:"relative w-full h-screen bg-violet-500 overflow-hidden"},m={__name:"Stroy",setup(c){return(_,n)=>(o(),t("div",s,[e(r),e(a)]))}};export{m as default};
