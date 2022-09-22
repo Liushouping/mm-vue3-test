@@ -1,0 +1,1 @@
+import{o,c as a,a as e,_ as r,H as s}from"./index.91e7522a.js";import{F as t}from"./FooterTwo.3d0fade6.js";const c={class:"relative w-full h-screen bg-gray-50 overflow-hidden"},d={__name:"Lab",setup(_){return(n,l)=>(o(),a("div",c,[e(r),e(s),e(t)]))}};export{d as default};
