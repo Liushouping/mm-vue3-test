@@ -1,1 +1,0 @@
-import{_ as e,o as c,c as t}from"./index.3a7893cc.js";const o={},s={class:"w-[200%]",style:{"background-image":"url(/image/lab/mm_world_bg.png)"}};function r(a,n){return c(),t("div",s," 123 ")}const l=e(o,[["render",r]]);export{l as default};
