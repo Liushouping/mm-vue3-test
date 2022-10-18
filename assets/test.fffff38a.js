@@ -1,1 +1,0 @@
-import{_ as o,o as t,a,H as n,F as r,r as s,b as c,c as m,d as _}from"./index.f0bd7829.js";const p={setup(){return t(()=>{}),a(()=>{}),{}},components:{Header:n,Footer:r}};function d(u,l,f,i,g,$){const e=s("VueImageZoomer");return c(),m("div",null,[_(e,{regular:"/image/lab/mm_right_fly.png"})])}const v=o(p,[["render",d],["__scopeId","data-v-5b799605"]]);export{v as default};
